@@ -19,3 +19,7 @@ This Repository is for my Resume and Certifications/Certificates I have achieved
 13. [**DATA VISUALIZATION - KAGGLE**](https://github.com/BrianHarrisCodes/Resume/blob/main/certs/OTHER/Brian%20Harris%20-%20Data%20Visualization.png)
 ## LINKS
 [**LinkedIN**](https://www.linkedin.com/in/brian-harris-6937b85b/)
+
+[**Portfolio Website**](https://brianharriscodes.github.io/BrianHarris.github.io/)
+
+[**Popular Name Web App**](https://popularbabyname.streamlit.app/)
